@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mkd/static/css/main.b8ec917d.chunk.css",
+    "main.js": "/mkd/static/js/main.93e60b84.chunk.js",
+    "main.js.map": "/mkd/static/js/main.93e60b84.chunk.js.map",
+    "runtime-main.js": "/mkd/static/js/runtime-main.03582c70.js",
+    "runtime-main.js.map": "/mkd/static/js/runtime-main.03582c70.js.map",
+    "static/js/2.651c90a5.chunk.js": "/mkd/static/js/2.651c90a5.chunk.js",
+    "static/js/2.651c90a5.chunk.js.map": "/mkd/static/js/2.651c90a5.chunk.js.map",
+    "index.html": "/mkd/index.html",
+    "precache-manifest.fb0c77fd391366d9104ace3d1e7665ed.js": "/mkd/precache-manifest.fb0c77fd391366d9104ace3d1e7665ed.js",
+    "service-worker.js": "/mkd/service-worker.js",
+    "static/css/main.b8ec917d.chunk.css.map": "/mkd/static/css/main.b8ec917d.chunk.css.map",
+    "static/js/2.651c90a5.chunk.js.LICENSE.txt": "/mkd/static/js/2.651c90a5.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/mkd/static/media/github.c654049a.svg",
+    "static/media/theme_icon.svg": "/mkd/static/media/theme_icon.21b19a9a.svg",
+    "static/media/tick.svg": "/mkd/static/media/tick.165de949.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03582c70.js",
+    "static/js/2.651c90a5.chunk.js",
+    "static/css/main.b8ec917d.chunk.css",
+    "static/js/main.93e60b84.chunk.js"
+  ]
+}
