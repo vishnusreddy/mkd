@@ -1,21 +1,29 @@
 {
   "name": "mkd",
-  "version": "0.1.0",
+  "version": "0.10.0",
+  "description": "A Simple React Js App to Edit MarkDown.",
   "private": true,
+  "author": {
+    "name": "Vishnu S Reddy",
+    "email": "vishnusreddy007@gmail.com",
+    "url": "https://vishnusreddy.tech"
+  },
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@material-ui/lab": "^4.0.0-alpha.50",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
     "babel-plugin-prismjs": "^2.0.1",
     "marked": "^0.8.2",
     "node-sass": "^4.13.1",
     "prismjs": "^1.21.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-full-screen": "^0.3.1",
+    "react-icons": "^3.11.0",
+    "react-scripts": "3.4.1",
+    "react-split": "^2.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,10 +32,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
